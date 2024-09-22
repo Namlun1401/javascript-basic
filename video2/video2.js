@@ -1,1 +1,1 @@
-console.log("hello worl from javascript")
+let x = "toi la string - chuoi"
